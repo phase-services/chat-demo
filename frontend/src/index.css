@@ -1,0 +1,45 @@
+body {
+    background-color: #333;
+    font-family: sans-serif;
+}
+
+#msgBox {
+    width: 500px;
+    height: 700px;
+    border-radius: 5px;
+    background-color: #222;
+    color: #fff;
+    padding: 10px;
+    overflow: auto;
+}
+
+#msgBox div {
+    width: 100%;
+    background-color: #333;
+    box-sizing: border-box;
+    padding: 5px;
+    padding-bottom: 20px;
+    margin-bottom: 10px;
+    border-bottom: 1px solid #aaa;
+}
+
+#msgBox div span {
+    display: block;
+    width: 100%;
+    word-break: break-all;
+}
+
+form {
+    margin-top: 10px;
+    width: 500px;
+}
+
+form input {
+    border-radius: 5px;
+    background-color: #222;
+    box-sizing: border-box;
+    width: 100%;
+    color: #fff;
+    padding: 10px;
+    padding-bottom: 30px;
+}
