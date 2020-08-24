@@ -1,6 +1,8 @@
 ## chat-demo
 A simple real-time chat application built using React, Node.js, MongoDB and Socket.IO.
 
+Check out the [medium article](https://medium.com/@pridestalkerr/introduction-to-web-sockets-building-a-real-time-chat-application-9cf1002e1398).
+
 ## Getting started
 ### back-end
 Inside ./backend/ run:
